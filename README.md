@@ -74,6 +74,3 @@ source:
 
 **Visualization**
 link : https://public.tableau.com/views/HotelBookingDashboard_17078230063390/Dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-
-**Presentation**
-link : https://www.canva.com/design/DAF89YIzkkI/Qd7P3cFTHwAztbv5bZf1qg/edit
